@@ -1,4 +1,4 @@
-#Hi 👋, I'm Deborah aka debdevs
+# Hi 👋, I'm Deborah aka debdevs
 I'm a web and Python developer from the great state of North Carolina
 I've worked with various companies over the years to deliver technical and graphical solutions
 - 💞️ I’m looking to collaborate on ...
