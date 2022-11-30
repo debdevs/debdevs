@@ -21,7 +21,9 @@ I'm currently looking for full-time employment as a web, software, or Email deve
 <h1 align="center">
 Skills:
 </h1>
-
+<div>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg"/>
+</div>
 
 Hello! I'm Deborah - a web and software developer who loves to make visually appealing projects.
 <!---
