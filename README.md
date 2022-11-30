@@ -22,7 +22,7 @@ I'm currently looking for full-time employment as a web, software, or Email deve
 Skills:
 </h1>
 <div>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "200px"/>
 </div>
 
 Hello! I'm Deborah - a web and software developer who loves to make visually appealing projects.
