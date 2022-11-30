@@ -1,3 +1,7 @@
+
+![MacBook Pro 14_ - 1 (1)](https://user-images.githubusercontent.com/111826637/204904529-527088aa-dec0-435b-8110-6b6c113670cd.png)
+
+
 # Hi 👋, I'm Deborah (aka debdevs)
 
 I'm a web and Python developer from the great state of North Carolina
