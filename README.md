@@ -4,13 +4,23 @@
 <h1 align="center">
 Hi 👋, I'm Deborah (aka debdevs)
 </h1>
-I'm a web and Python developer from the great state of North Carolina
 
+<p align="center">
+I'm a web and Python developer from the great state of North Carolina
+</p>
+
+
+
+<p align="center">
 I've worked with various companies over the years to deliver technical and graphical solutions. I've created everything from designs to animations, Python scripts, and websites. My main focus? Creating professional, high-quality implentations of visual designs. I create graphics templates in any format - web, animation, you name it. 
+</p>
 
 
 I'm currently looking for full-time employment as a web, software, or Email developer. Take a look at my projects below, and if you like what you see, check out my contact info:
 
+<p align="center">
+I'm currently looking for full-time employment as a web, software, or Email developer. Take a look at my projects below, and if you like what you see, check out my contact info: 
+</p>
 
 
 Hello! I'm Deborah - a web and software developer who loves to make visually appealing projects.
