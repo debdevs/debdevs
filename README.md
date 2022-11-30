@@ -3,7 +3,7 @@
 
 
 # Hi 👋, I'm Deborah (aka debdevs)
-<p align="center">
+<p align="center" style = "font-size:5rem;">
 # Hi 👋, I'm Deborah (aka debdevs)
 </p>
 I'm a web and Python developer from the great state of North Carolina
