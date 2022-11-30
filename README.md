@@ -23,6 +23,9 @@ Skills:
 </h1>
 <div>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "200px"/>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "200px"/>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "200px"/>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "200px"/>
 </div>
 
 Hello! I'm Deborah - a web and software developer who loves to make visually appealing projects.
