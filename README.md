@@ -3,7 +3,9 @@
 
 
 # Hi 👋, I'm Deborah (aka debdevs)
-
+<p align="center">
+# Hi 👋, I'm Deborah (aka debdevs)
+</p>
 I'm a web and Python developer from the great state of North Carolina
 
 I've worked with various companies over the years to deliver technical and graphical solutions. I've created everything from designs to animations, Python scripts, and websites. My main focus? Creating professional, high-quality implentations of visual designs. I create graphics templates in any format - web, animation, you name it. 
