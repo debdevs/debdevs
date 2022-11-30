@@ -18,6 +18,9 @@ I've worked with various companies over the years to deliver technical and graph
 <p align="center">
 I'm currently looking for full-time employment as a web, software, or Email developer. Take a look at my projects below, and if you like what you see, check out my contact info: 
 </p>
+<h1 align="center">
+Skills:
+</h1>
 
 
 Hello! I'm Deborah - a web and software developer who loves to make visually appealing projects.
