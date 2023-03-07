@@ -1,7 +1,6 @@
 
-![MacBook Pro 14_ - 1 (1)](https://user-images.githubusercontent.com/111826637/204904529-527088aa-dec0-435b-8110-6b6c113670cd.png)
+![debdevs_github_banner_01](https://user-images.githubusercontent.com/111826637/223296005-32a76921-2da5-4904-8bb1-fbb4076a0c9b.png)
 
-<h1 align="center">
 Hi 👋, I'm Deborah (aka debdevs)
 </h1>
 
